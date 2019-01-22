@@ -6,8 +6,8 @@
   <packaging>pom</packaging>
 
   
-  <！ - 包含整个项目中用到的所有的版本1234332dad1  - >
-  < properties >
+  <!-- 包含整个项目中用到的所有的版本 -->
+  <properties>
 		<junit.version>4.12</junit.version>
 		<spring.version>4.1.3.RELEASE</spring.version>
 		<mybatis.version>3.2.8</mybatis.version>
